@@ -6,6 +6,8 @@
 加一句 这是b分支
 [English version of README](README.md)
 
+a分支内容
+
 GoGoCode 是一个基于 AST 的 JavaScript/Typescript/HTML 代码转换工具，但相较于同类，它提供了更符合直觉的 API
 
 -   一套类 Jquery 的 API 用来查找和处理 AST
