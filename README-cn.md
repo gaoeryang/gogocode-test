@@ -3,7 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE)
 
 ## GoGoCode 是什么？
-加一句 这是b分支
+加一句 这是b分支 a在这也加
 [English version of README](README.md)
 
 a分支内容
